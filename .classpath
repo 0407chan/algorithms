@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="codingTest/2019_11st"/>
-	<classpathentry kind="src" path="codingTest/2019_line"/>
-	<classpathentry kind="src" path="codingTest/2019_naver"/>
-	<classpathentry kind="src" path="codingTest/2019_netmarble"/>
-	<classpathentry kind="src" path="codingTest/2019_nhn"/>
-	<classpathentry kind="src" path="codingTest/2020_line"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="programmers"/>
 	<classpathentry kind="src" path="swexpert"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
