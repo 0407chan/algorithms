@@ -1,4 +1,4 @@
-package lv_1;
+package lv1;
 
 import java.util.Arrays;
 import java.util.Stack;
