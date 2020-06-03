@@ -2,6 +2,16 @@ package lv_1;
 
 import java.util.Arrays;
 
+/* 2020-06-03 수요일
+ * https://programmers.co.kr/learn/courses/30/lessons/17681
+ * 
+ * 일단 10진수 -> 2진수로 만들어 줄 줄 알아야 한다.
+ * 
+ * arr1, arr2를 돌면서 map에 1 0 으로 초기화 해준 후,
+ * 마지막에 stringbuilder로 돌면서 answer를 하나씩 만들어주면 된다.
+ * 
+ * 
+ * */
 public class Solution_1차_비밀지도 {
 	public static String[] solution(int n, int[] arr1, int[] arr2) {
         String[] answer = new String[n];
