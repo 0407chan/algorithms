@@ -1,15 +1,5 @@
 package lv2;
 
-/* 2020-06-04 목요일
- * https://programmers.co.kr/learn/courses/30/lessons/17682
- * 
- * 시뮬레이션 문제이다
- * 조건에 해당하는 범위가 무엇인지 잘 확인하는게 필요하다.
- * 점수 1~10
- * 보너스 S,D,T
- * 옵션 *, #
- * 각 조건에 해당하는 연산을 해주면 된다. 
- * */
 public class Solution_1차_다트게임 {
 	public static int solution(String s) {
         int answer = 0;
