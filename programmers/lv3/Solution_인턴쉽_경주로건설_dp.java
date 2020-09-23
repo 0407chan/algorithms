@@ -3,6 +3,8 @@ package lv3;
 import java.util.*;
 
 /* 2020-09-09 수요일
+ * https://programmers.co.kr/learn/courses/30/lessons/67259
+ * 성공
  * */
 public class Solution_인턴쉽_경주로건설_dp {
 	
