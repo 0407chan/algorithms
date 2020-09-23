@@ -3,7 +3,7 @@ package lv2;
 import java.util.Stack;
 
 // https://programmers.co.kr/learn/courses/30/lessons/60058
-// 
+// 성공
 
 public class Solution_lv2_괄호변환 {
 	public static String solution(String p) {
