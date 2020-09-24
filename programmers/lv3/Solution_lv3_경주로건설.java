@@ -6,7 +6,7 @@ import java.util.*;
  * https://programmers.co.kr/learn/courses/30/lessons/67259
  * 성공
  * */
-public class Solution_인턴쉽_경주로건설_dp {
+public class Solution_lv3_경주로건설 {
 	
 	public static boolean[][] visit;
 	public static int[] di = {-1,1,0,0};
